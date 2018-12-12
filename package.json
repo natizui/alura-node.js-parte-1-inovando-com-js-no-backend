@@ -1,0 +1,23 @@
+{
+  "name": "casadocodigo",
+  "version": "1.0.0",
+  "description": "Livraria Casa do Código",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natizui/alura-node.js-parte-1-inovando-com-js-no-backend.git"
+  },
+  "author": "Natalia Izui",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natizui/alura-node.js-parte-1-inovando-com-js-no-backend/issues"
+  },
+  "homepage": "https://github.com/natizui/alura-node.js-parte-1-inovando-com-js-no-backend#readme",
+  "dependencies": {
+    "express": "4.16.3"
+  }
+}
